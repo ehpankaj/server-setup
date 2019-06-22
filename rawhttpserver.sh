@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#variables
+#variabless
 read -p 'Enter username: ' userName
 
 SSHSetup() {
